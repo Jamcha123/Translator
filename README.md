@@ -1,2 +1,2 @@
 # Translator
-This is a file upload translator using openai
+This is a file upload translator using google cloud translation api
